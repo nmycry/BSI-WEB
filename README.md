@@ -1,2 +1,6 @@
 # BSI-WEB
-Repositório a ser usado na matéria de desenvolvimento WEB, do IFNMG campus Salinas
+GIT : Intermediário;
+HTML : Intermediário;
+CSS : Básico;
+JS : Básico;
+Tailwind CSS : Básico.
