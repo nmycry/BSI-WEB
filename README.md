@@ -1,6 +1,6 @@
 # BSI-WEB
-GIT : Intermediário;\n
-HTML : Intermediário;\n
-CSS : Básico;\n
-JS : Básico;\n
+GIT : Intermediário;
+HTML : Intermediário;
+CSS : Básico;
+JS : Básico;
 Tailwind CSS : Básico.
